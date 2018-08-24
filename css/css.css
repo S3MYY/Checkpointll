@@ -1,0 +1,107 @@
+h1{
+	color: aqua;
+	background-color: skyblue;
+	padding-left: 350px;
+	background-image: url(https://images.unsplash.com/photo-1532972190883-11c46c01030b?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjF9&s=e301c9d8f98f85b993d535cbbeae311e);
+	font-family: 'Bree Serif', Serif;
+	font-size: 350%;
+	display: inline-block;
+	width: 1000px;
+	height: 450px;
+	margin-top: 0px;
+	background-position: center;
+	background-size: cover;
+	margin-bottom: 75px;
+	position: relative;
+	top: 40%;
+}
+h2{
+	color: purple;
+	font-size: 500%;
+	font-family: cursive;
+	padding-right: 250px;
+	margin-right: 60px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	margin-left: 60px;
+}
+.Part{
+	border: 3px solid #73AD21; 
+	display: inline-block;
+	width: 500px;
+	height: 250px;
+	background-color: #734F47;
+	vertical-align:top;
+}
+h2{
+	font-size: 2em;
+	text-align: justify;
+	margin-left: 150px;
+	margin-top: 0px;
+	margin-right: 150px;
+	margin-bottom: 45px;
+	padding: 0px;
+
+}
+h3{
+	color: purple;
+	font-size: 2em;
+	text-align: justify;
+	margin-left: 0px;
+	margin-top:0px;
+	margin-bottom: 20px;
+	padding: 0px;
+}
+h4{
+	color: purple;
+	font-size: 2em;
+	text-align: justify;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding: 0px;
+}
+h5{
+	color: purple;
+	font-size: 2em;
+	text-align: justify;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding: 0px;
+}
+h6{
+	color: purple;
+	font-size: 2em;
+	text-align: justify;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding: 0px;
+}
+h7{
+	color: purple;
+	font-size: 2em;
+	text-align: justify;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding: 0px;
+}
+.lilpump{
+	margin-right: 50px;
+	padding-left: 150px
+}
+h8{
+	color: purple;
+	font-size: 2em;
+	text-align: justify;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-bottom: 20px;
+	padding: 0px;
+}	
+.firstpart{
+	background-color: #EDDFDC;
+	text-shadow: 1px; 
+}
